@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+spleeter
+librosa
+youtube-dl
+pydub
+numpy
+pydantic
+google-cloud-storage
+soundfile

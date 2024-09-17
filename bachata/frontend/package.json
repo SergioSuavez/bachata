@@ -1,0 +1,13 @@
+{
+    "name": "bachata-frontend",
+    "version": "1.0.0",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "react": "^17.0.2",
+      "wavesurfer.js": "^4.6.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    }
+  }
